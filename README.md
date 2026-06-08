@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student at **Tongji University**
+- 🎓 Engineer at **Seeed Studio** && Student at **Tongji University**
 - 🔧 Passionate about **Embedded Systems**, **Python**, and **Low-level Programming**
 - 🐧 Daily driver: Linux + Terminal
 - 📡 Currently exploring Jetson / Edge AI development
