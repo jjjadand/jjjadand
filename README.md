@@ -42,10 +42,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jjjadand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=0077ff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjadand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&langs_count=8" />
-</p>
 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=jjjadand&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa" />
