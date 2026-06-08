@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0077ff&height=200&section=header&text=lidayu&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0077ff&height=200&section=header&text=Brian9527&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=Tongji+University;Python+%7C+C%2B%2B+%7C+Embedded;Open+Source+Enthusiast;Systems+%26+Full-Stack+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?Brian9527font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=Tongji+University;Python+%7C+C%2B%2B+%7C+Embedded;Open+Source+Enthusiast;Systems+%26+Full-Stack+Explorer" />
 </h3>
 
 <p align="center">
